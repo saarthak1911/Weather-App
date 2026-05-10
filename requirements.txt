@@ -2,5 +2,6 @@ streamlit
 requests
 langchain
 langchain-community
+langchain-openai
 openai
 google-generativeai
